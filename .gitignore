@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual Environment
+myenv/
+
+# # Model weights
+# *.pt
+# *.h5
+# *.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+runs/

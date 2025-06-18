@@ -1,0 +1,12 @@
+streamlit
+torch>=1.7
+torchvision
+Pillow
+numpy
+matplotlib
+opencv-python
+PyYAML
+seaborn
+pandas
+requests
+tqdm
