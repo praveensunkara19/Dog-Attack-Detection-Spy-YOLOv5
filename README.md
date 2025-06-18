@@ -3,10 +3,10 @@
 A Raspberry Pi-based dog attack detection system powered by **YOLOv5**.
 
 This solution helps in **preventing dog attacks** by:
-- Detecting approaching/aggressive dogs  
+- **Detecting** approaching/aggressive dogs  
 - **Triggering an alarm sound** to scare them away  
 - **Sending the incident location** via SMS using a GPS module  
-
+- This project is supported by the our patent!
 ---
 
 ## 🚀 System Deployment
@@ -21,9 +21,9 @@ This solution helps in **preventing dog attacks** by:
 
 ## 📸 Sample Detection Outputs
 
-### 🐕 Dog Attack Detection
+### 🐕 Dog Attack References
 
-These images show examples of YOLOv5 identifying potential dog attack scenarios.
+Due to frequent dog attacks, several people suffer injuries or die from rabies. The following images reflect real-world references.
 
 <table>
   <tr>
@@ -40,10 +40,13 @@ These images show examples of YOLOv5 identifying potential dog attack scenarios.
 
 ### 🧪 Prototype Setup & 📈 YOLOv5 Inference Output
 
+These images show examples of YOLOv5 identifying potential dog attack scenarios and our physical prototype setup.
+
 <table>
   <tr>
     <td><img src="images/image5.jpg" width="300"/></td>
     <td><img src="images/image6.png" width="300"/></td>
+    <td><img src="images/image7.jpg" width="300"/></td>
   </tr>
 </table>
 
@@ -53,7 +56,7 @@ These images show examples of YOLOv5 identifying potential dog attack scenarios.
 
 [▶️ Click to watch demo video](https://github.com/praveensunkara19/Dog-Attack-Detection-Spy-YOLOv5/blob/main/images/yolo_video.mp4)
 
-> ⚠️ GitHub does not support video autoplay. You can also [upload to YouTube](https://youtu.be/mKBjsPU-u8U) for a better viewing experience.
+> ⚠️ GitHub does not support video autoplay. You can also view on [YouTube](https://youtu.be/mKBjsPU-u8U) for a better viewing experience.
 
 ---
 
@@ -73,9 +76,9 @@ These images show examples of YOLOv5 identifying potential dog attack scenarios.
 
 Follow the steps below to set up and run the Dog Attack Detection Streamlit app:
 
-## 1️⃣ Clone the Repository
-
 ```bash
+1️⃣ Clone the Repository
+
 git clone https://github.com/praveensunkara19/Dog-Attack-Detection-Spy-YOLOv5.git
 
 cd Dog-Attack-Detection-Spy-YOLOv5
@@ -98,16 +101,13 @@ pip install -r requirements.txt
 streamlit run app.py
 
 The app will open automatically in your browser. You can:
-
 Upload images/videos for detection
-
 Try the built-in test image/video
-
 View side-by-side results of predictions
-
+```
 ---
 
-📦 Folder Structure
+# 📦 Folder Structure
 
 Dog-Attack-Detection-Spy-YOLOv5/
 │
@@ -129,7 +129,7 @@ Dog-Attack-Detection-Spy-YOLOv5/
 ├── requirements.txt   # Dependencies  
 ├── README.md          # Project documentation 
 
-📬 Contact
+# 📬 Contact
 For issues, suggestions, or collaborations:
 📧 Email Me: praveensunkara19@gmail.com
-🔗 GitHub
+🔗 GitHub: praveensunkara19
