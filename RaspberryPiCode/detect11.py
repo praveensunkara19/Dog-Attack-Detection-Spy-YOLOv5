@@ -59,8 +59,8 @@ def capture():
     bot.sendPhoto(chat_id, photo = open('./image.jpg', 'rb'))
 
 
-bot = telepot.Bot('6568296655:AAHuitrHc5FSh6GPqmgG1gTw_LmOOeSiAl8')
-chat_id='5019291045'
+bot = telepot.Bot('Your Telegram Bot Id Here')
+chat_id='Chat_id here'
 bot.message_loop(handle)
 
 print("Telegram bot is ready")
