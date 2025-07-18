@@ -102,10 +102,11 @@ The app will open automatically in your browser. You can:
 Upload images/videos for detection
 Try the built-in test image/video
 View side-by-side results of predictions
-```
+
 ---
 
-# 📦 Folder Structure
+## 📦 Folder Structure
+
 Dog-Attack-Detection-Spy-YOLOv5/
 │
 ├── images/ # Sample outputs & demo video
@@ -132,8 +133,8 @@ Dog-Attack-Detection-Spy-YOLOv5/
 ├── reference_images/ # Reference images for training/testing
 ├── audio.wav # Alarm sound file
 └── detect11.py # Detection script for Raspberry Pi
----
 
+```
 # 📬 Contact
 For issues, suggestions, or collaborations:
 📧 Email Me: praveensunkara19@gmail.com
