@@ -108,30 +108,30 @@ View side-by-side results of predictions
 # 📦 Folder Structure
 Dog-Attack-Detection-Spy-YOLOv5/
 │
-├── images/                  # Sample outputs & demo video
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   ├── image3.jpg
-│   ├── image4.jpg
-│   ├── image5.jpg
-│   ├── image6.png
-│   └── yolo_video.mp4
+├── images/ # Sample outputs & demo video
+│ ├── image1.jpg
+│ ├── image2.jpg
+│ ├── image3.jpg
+│ ├── image4.jpg
+│ ├── image5.jpg
+│ ├── image6.png
+│ └── yolo_video.mp4
 │
-├── test/                   # Test input files
-│   ├── testimg.jpg
-│   └── test_video.mp4
+├── test/ # Test input files
+│ ├── testimg.jpg
+│ └── test_video.mp4
 │
-├── yolov5_best.pt          # Trained YOLOv5 model weights
-├── app.py                  # Streamlit app
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
+├── yolov5_best.pt # Trained YOLOv5 model weights
+├── app.py # Streamlit app
+├── requirements.txt # Project dependencies
+├── README.md # Project documentation
 │
-├── RaspberryPi setup/      # Raspberry Pi setup instructions
-│   └── Pi-procedureSteps.docs
+├── RaspberryPi setup/ # Raspberry Pi setup instructions
+│ └── Pi-procedureSteps.docs
 │
-├── reference_images/       # Reference images for training/testing
-├── audio.wav               # Alarm sound file
-├── detect11.py             # Detection script for Raspberry Pi
+├── reference_images/ # Reference images for training/testing
+├── audio.wav # Alarm sound file
+└── detect11.py # Detection script for Raspberry Pi
 ---
 
 # 📬 Contact
